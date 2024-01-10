@@ -1,4 +1,4 @@
-# Point Cloud Completion For Mixed Reality - ETH Zurich, January 2024
+# Point Cloud Completion For Mixed Reality
 
 ## Project Overview
 
