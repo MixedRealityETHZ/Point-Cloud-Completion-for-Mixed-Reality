@@ -1,4 +1,3 @@
-```markdown
 # Point Cloud Completion For Mixed Reality - ETH Zurich, January 2024
 
 ## Project Overview
