@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9c177bcf8ade29d4c98c90bd5ae16acc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - logger: {instanceID: 0}
+  - tutorialPanel: {instanceID: 0}
+  - WireframeMaterial: {fileID: 2100000, guid: 45b1d6b7380045c449cf419345530f64, type: 2}
+  - EnvironmentMaterial: {fileID: 2100000, guid: c7001837d50add148b26a9f8eb7a5f48,
+      type: 2}
+  - MultiAnchorPlacementPrefab: {fileID: 4934647782743381813, guid: 4732b29552bf2d545af129145c531105,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
