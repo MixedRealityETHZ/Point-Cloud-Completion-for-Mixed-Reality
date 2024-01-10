@@ -10,8 +10,8 @@ This project was supervised by the Mixed Reality and AI Lab of Microsoft Zurich.
 
 Mixed Reality applications, such as Dynamics 365 Guides, can help improve productivity with holographic instructions. These instructions are generated using point cloud data captured from an instructor’s perspective while performing a specific task. However, this initial representation is partial and lacks completeness from alternative viewpoints. In this project, we propose leveraging learning-based algorithms to deliver more complete representations. To achieve this, we train an encoder-decoder transformer-based model to predict completed point clouds constructed from multi-view given its corresponding point cloud from a single-view. We show that our approach can perform with an accuracy of 97% when evaluated on the Percentage of Correct Keypoints metric within a threshold radius of 0.1 normalized distance. Additionally, we present a complete pipeline that anchors the location, records, segments, predicts, and integrates completed point clouds into the Mixed Reality environment, allowing for the replay of the recorded scene with the completed point cloud.
 
-![HoloLens Prediction](Imgs/hololens_pred_splitted.png)
-![Point Cloud](Imgs/pointcloud.jpg)
+<img src="Imgs/hololens_pred_splitted.png" alt="HoloLens Prediction" width="400"/>
+<img src="Imgs/pointcloud.jpg" alt="Point Cloud" width="400"/>
 
 ## Demo
 
